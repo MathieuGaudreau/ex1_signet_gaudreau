@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ex1_signet_gaudreau/static/css/main.96dfa33e.chunk.css",
+    "main.js": "/ex1_signet_gaudreau/static/js/main.25c2be87.chunk.js",
+    "main.js.map": "/ex1_signet_gaudreau/static/js/main.25c2be87.chunk.js.map",
+    "runtime-main.js": "/ex1_signet_gaudreau/static/js/runtime-main.1e4f8a77.js",
+    "runtime-main.js.map": "/ex1_signet_gaudreau/static/js/runtime-main.1e4f8a77.js.map",
+    "static/js/2.536a3b06.chunk.js": "/ex1_signet_gaudreau/static/js/2.536a3b06.chunk.js",
+    "static/js/2.536a3b06.chunk.js.map": "/ex1_signet_gaudreau/static/js/2.536a3b06.chunk.js.map",
+    "index.html": "/ex1_signet_gaudreau/index.html",
+    "static/css/main.96dfa33e.chunk.css.map": "/ex1_signet_gaudreau/static/css/main.96dfa33e.chunk.css.map",
+    "static/js/2.536a3b06.chunk.js.LICENSE.txt": "/ex1_signet_gaudreau/static/js/2.536a3b06.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e4f8a77.js",
+    "static/js/2.536a3b06.chunk.js",
+    "static/css/main.96dfa33e.chunk.css",
+    "static/js/main.25c2be87.chunk.js"
+  ]
+}
